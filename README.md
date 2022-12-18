@@ -8,6 +8,8 @@ For this project we used two dataset found on kaggle :
 
 The reason behind using two datasets, is that one of them has larger and more descriptive plots, and the others has user reviews, which allow us to add a weight to our recommendation system.
 
+For the csv file provided above, it is the mix of the two dataset on a small scale, as it is impossible to import larger files to github.
+
 ## Code : 
 The code is split into multiple sections, first working with the first dataset, then the second, and finally a mix of the two. Also, some of the functions used are inspired from already existing code found here on github or other websites of sort.
 - [First dataset](https://colab.research.google.com/drive/1DwuXmulD2zt0zD3CCebC7fiVvGgS5S8e?usp=sharing)

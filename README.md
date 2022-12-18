@@ -14,7 +14,7 @@ For the csv file provided above, it is the mix of the two dataset on a small sca
 The code is split into multiple sections, first working with the first dataset, then the second, and finally a mix of the two. Also, some of the functions used are inspired from already existing code found here on github or other websites of sort.
 - [First dataset](https://colab.research.google.com/drive/1DwuXmulD2zt0zD3CCebC7fiVvGgS5S8e?usp=sharing)
 - [Ratings dataset](https://colab.research.google.com/drive/1_sJ789kOgzw7yVI-urjzBNCOS_XleOwS?usp=sharing)
-- [Mix of both datasets](https://colab.research.google.com/drive/1EDFCSU084X7TbYduE7_G_c2fIRb8B8Vg?usp=sharing)
+- [Mix of both datasets](https://colab.research.google.com/drive/1MW2MwRt1Aw5MNhauhniZTzvxkLs9FDZv?usp=sharing)
 
 ## Libraries :
 Multiple libraries have been used for this project, all of them can be found in the requirement.txt file.

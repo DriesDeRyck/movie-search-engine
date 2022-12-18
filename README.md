@@ -2,9 +2,9 @@
 IR Project: search for movies based on their plot description
 
 ## Datasets :
-For this project we used two dataset found on kaggle
-https://www.kaggle.com/code/willacy/exploring-movie-plots-nlp-and-clustering
-https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+For this project we used two dataset found on kaggle :
+- https://www.kaggle.com/code/willacy/exploring-movie-plots-nlp-and-clustering
+- https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
 The reason behind using two datasets, is that one of them has larger and more descriptive plots, and the others has user reviews, which allow us to add a weight to our recommendation system.
 

@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib.pyplot
+spacy
+sklearn
+pickle
+plotly
+scipy
+wordcloud
+gensim
+nltk
+
